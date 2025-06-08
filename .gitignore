@@ -1,0 +1,18 @@
+# Ignore log files
+logs
+# Ignore temporary files
+dockerfiles/
+docker-compose.yml
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+
+# Ignore database files
+*.sqlite3
